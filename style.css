@@ -2,9 +2,9 @@
   --font0: "Open Sans" sans-serif;
   --font01: "Mulish" sans-serif;
  
-  --cor0: hashtag#1f1534;
-  --cor01: hashtag#89c5cc;
-  --cor02: hashtag#000000;
+  --cor0: #1f1534;
+  --cor01: #89c5cc;
+  --cor02: #000000;
  }
  
  * {
@@ -114,7 +114,7 @@
   text-transform: uppercase;
   font-family: "Open Sans", sans-serif;
  
-  background: hashtag#69B99D;
+  background:#69B99D;
   border: 0;
   padding: 14px 32px 15px;
   
@@ -129,7 +129,7 @@
   }
   
   button:hover {
-  background: hashtag#4EA788;
+  background: #4EA788;
   }
   
   /* footer */
@@ -146,7 +146,7 @@
   color: var(--cor02);
   }
   
-  hashtag#balls {
+  #balls {
   display: flex;
   align-items: center;
   justify-content: space-between;
